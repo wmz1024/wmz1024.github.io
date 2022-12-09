@@ -3,6 +3,8 @@ catch_rules: #转换规则
       transform_rules: 
         - search: \#.* 
           replace: ''
+        - search: \?.* #在发送请求时匹配?后内容并移除，仅限静态请求
+          replace: '' 
         - search: _ 
           replace: 
           - _ #保留原始请求
@@ -10,9 +12,6 @@ catch_rules: #转换规则
           - unpkg.com/wblog
           - cfb.wmza.cn
           - cdn.cbd.int/wblog
-
-        - search: ([^\/.]+)\/$
-          replace: $1/index.html
 
         - search: \.html$
           header:
