@@ -2,51 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://blog.w03.cc/wsimg/README.html</loc>
-    
-    <lastmod>2022-12-09</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://blog.w03.cc/p/2021/2b244555.html</loc>
-    
-    <lastmod>2022-12-09</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://blog.w03.cc/p/2021/aeb2d36.html</loc>
-    
-    <lastmod>2022-12-09</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://blog.w03.cc/p/2021/87e1c0bc.html</loc>
-    
-    <lastmod>2022-12-09</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://blog.w03.cc/p/2022/22a81886.html</loc>
-    
-    <lastmod>2022-12-09</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>http://blog.w03.cc/p/2022/4558e337.html</loc>
     
     <lastmod>2022-12-09</lastmod>
@@ -804,6 +759,51 @@
   
   <url>
     <loc>http://blog.w03.cc/tags/index.html</loc>
+    
+    <lastmod>2022-12-09</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://blog.w03.cc/wsimg/README.html</loc>
+    
+    <lastmod>2022-12-09</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://blog.w03.cc/p/2021/2b244555.html</loc>
+    
+    <lastmod>2022-12-09</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://blog.w03.cc/p/2021/aeb2d36.html</loc>
+    
+    <lastmod>2022-12-09</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://blog.w03.cc/p/2021/87e1c0bc.html</loc>
+    
+    <lastmod>2022-12-09</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://blog.w03.cc/p/2022/22a81886.html</loc>
     
     <lastmod>2022-12-09</lastmod>
     
