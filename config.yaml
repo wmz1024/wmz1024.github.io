@@ -1,7 +1,0 @@
-name: ClientWorker 
-catch_rules:
-  - rule: _
-    transform_rules:
-      - search: \#.+
-        searchin: url
-        replace: ''
