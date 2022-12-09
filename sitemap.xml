@@ -200,15 +200,6 @@
   </url>
   
   <url>
-    <loc>http://blog.w03.cc/p/2020/bf3a65a4.html</loc>
-    
-    <lastmod>2022-12-09</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>http://blog.w03.cc/p/2020/30422b3f.html</loc>
     
     <lastmod>2022-12-09</lastmod>
@@ -219,6 +210,15 @@
   
   <url>
     <loc>http://blog.w03.cc/p/2020/d2bd8f46.html</loc>
+    
+    <lastmod>2022-12-09</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://blog.w03.cc/p/2020/bf3a65a4.html</loc>
     
     <lastmod>2022-12-09</lastmod>
     
@@ -336,6 +336,15 @@
   
   <url>
     <loc>http://blog.w03.cc/p/2022/f45df334.html</loc>
+    
+    <lastmod>2022-12-09</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://blog.w03.cc/p/2022/9bf974bc.html</loc>
     
     <lastmod>2022-12-09</lastmod>
     
@@ -885,6 +894,13 @@
   
   <url>
     <loc>http://blog.w03.cc/tags/Github/</loc>
+    <lastmod>2022-12-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://blog.w03.cc/tags/%E6%8E%A8%E5%B9%BF/</loc>
     <lastmod>2022-12-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
