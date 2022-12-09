@@ -22,6 +22,6 @@ catch_rules: #转换规则
           action: fetch
           fetch:
             status: 200
-            engine: classic
+            engine: Parallel
             preflight: false
             timeout: 5000
