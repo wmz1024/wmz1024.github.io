@@ -4,6 +4,33 @@
   
     
     <entry>
+      <title>免费Jsdelivr反代CDN新鲜出炉~ （使用文档）</title>
+      <link href="//p/2022/a7484b3f.html"/>
+      <url>//p/2022/a7484b3f.html</url>
+      
+        <content type="html"><![CDATA[<h1 id="免费Jsdelivr反代CDN新鲜出炉-（使用文档）"><a href="#免费Jsdelivr反代CDN新鲜出炉-（使用文档）" class="headerlink" title="免费Jsdelivr反代CDN新鲜出炉~ （使用文档）"></a>免费Jsdelivr反代CDN新鲜出炉~ （使用文档）</h1><ol><li><p>Q：速度快吗？ A：cdn0基于Cloudflare自选节点 可能快可能慢 但是绝大多数都很快 </p></li><li><p>Q：可以加速什么？A：任何东西都可以加速 包括字体和大图片 我们的优点也在这 就算你一个月跑到2TB（当然是CDN缓存内）我们也不会生气（（（</p></li><li><p>Q：为什么我的jsdelivr文件更新了 但是这里却没有更新？A：我们的cdn0有缓存，其他无缓存</p><p>cdn0<strong>晚高峰</strong>：</p><p><img src="https://s2.loli.net/2022/12/25/KmUwRZtNAWqYHoQ.png" alt="image.png"></p><div class="tip warning faa-horizontal animated"><p>此图仅代表2022年12月25号 我们在近日会增加更多cdn0的节点(ipv4/ipv6) 速度会更快！ </p></div></li></ol><h2 id="CDN链接"><a href="#CDN链接" class="headerlink" title="CDN链接"></a>CDN链接</h2><p><code>cdn0.877771.xyz</code> Cloudflare 自选节点 ping: 50-70ms 支持https 支持缓存（1个月）推荐</p><p><code>cdn1.877771.xyz</code> 中国香港节点 ping: 50-70ms 不支持https 回源ip</p><p><code>cdn2.877771.xyz</code> 印度节点 ping: 270-300ms 不支持https 回源ip</p><p><code>cdn3.877771.xyz</code> 英国节点 ping: 340-400ms 不支持https 回源ip</p><p><code>cdn4.877771.xyz</code> 加拿大节点 ping: 260-300ms 不支持https 回源ip</p><p><code>cdn5.877771.xyz</code> 荷兰节点 ping: 320-400ms 不支持https 回源ip</p><p><code>vercel-cdn.jkisme.ml</code> Vercel Serverless 节点 ping: 70-100ms 支持https 备用</p><div class="tip warning faa-horizontal animated"><p>Ping仅供参考 由于免费 可能不知道什么时候就倒闭了 但是我们会坚持的（（</p></div><h2 id="关于"><a href="#关于" class="headerlink" title="关于"></a>关于</h2><p>CDN有莫莫逗狗提供 <a href="https://mocn.top">https://mocn.top</a></p><p>服务器（可能并不稳定的）及域名由Wmz1024提供 <a href="https://w03.cc">https://w03.cc</a></p><p>CDN免费 但是一定要遵守下列守则：</p><ol><li>不用于违法违规的网站CDN加速 （包括但不限于HDD/有损国家形象等）</li><li>使用即代表你同意JSD相关隐私政策。<a href="https://www.jsdelivr.com/terms">Terms &amp; Policies - jsDelivr</a></li></ol><p>求打赏：啊吧啊吧</p><p><a href="https://afdian.net/a/wmz1024">Wmz1024’s Afdian</a></p><p><a href="https://afdian.net/a/momo5418">momo5418’s Afdian</a></p><p>在使用前最好填写问卷：</p><p><a href="https://shimo.im/forms/m5kv9G8gwXhEm1qX/fill">https://shimo.im/forms/m5kv9G8gwXhEm1qX/fill</a> 邀请你填写表单 《申请使用CDN》</p><p>在网站中写上 <code>JSD反代由 cdn0.877771.xyz</code> (当然 最好是)</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 文章 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Jsdelivr </tag>
+            
+            <tag> CDN </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>蓝易云商家机器主打稳定建站服务器！29元/月1核/1G内存/10Mbps/香港CN2服务器、香港大带宽服务器、香港服务器推荐</title>
       <link href="//p/2022/9bf974bc.html"/>
       <url>//p/2022/9bf974bc.html</url>
