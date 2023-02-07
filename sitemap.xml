@@ -2,15 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://blog.w03.cc/wsimg/README.html</loc>
-    
-    <lastmod>2023-02-07</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>http://blog.w03.cc/p/2022/1d8f7a88.html</loc>
     
     <lastmod>2023-02-07</lastmod>
@@ -750,6 +741,15 @@
   
   <url>
     <loc>http://blog.w03.cc/tags/index.html</loc>
+    
+    <lastmod>2023-02-07</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://blog.w03.cc/wsimg/README.html</loc>
     
     <lastmod>2023-02-07</lastmod>
     
