@@ -1,0 +1,1 @@
+const fs=require("fs/promises"),index=async()=>{const e={date:Date.now()+""},s={name:process.env.NPM_NAME||"",version:`${e.date[0]}.${e.date[1]}.${e.date.slice(2,13)}`,main:"index.js",description:""},i=JSON.stringify(s);await fs.writeFile("./package.json",i,"utf8",(e=>{if(e)throw e})),console.log("写入完成")};index();
