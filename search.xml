@@ -2496,7 +2496,7 @@
       <link href="/about/index.html"/>
       <url>/about/index.html</url>
       
-        <content type="html"><![CDATA[]]></content>
+        <content type="html"><![CDATA[<p>asdfg</p>]]></content>
       
     </entry>
     
@@ -2572,6 +2572,17 @@
       <title>即刻短文</title>
       <link href="/say/index.html"/>
       <url>/say/index.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Search</title>
+      <link href="/search/index.html"/>
+      <url>/search/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
       

@@ -2,15 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://ink.gs/p/2020/fe275fd0.html</loc>
-    
-    <lastmod>2024-02-22</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://ink.gs/p/2021/a2bad115.html</loc>
     
     <lastmod>2024-02-22</lastmod>
@@ -354,6 +345,15 @@
   
   <url>
     <loc>https://ink.gs/say/index.html</loc>
+    
+    <lastmod>2024-02-22</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://ink.gs/search/index.html</loc>
     
     <lastmod>2024-02-22</lastmod>
     
@@ -876,6 +876,15 @@
   
   <url>
     <loc>https://ink.gs/p/2022/f96e98b0.html</loc>
+    
+    <lastmod>2024-02-22</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://ink.gs/p/2020/fe275fd0.html</loc>
     
     <lastmod>2024-02-22</lastmod>
     
